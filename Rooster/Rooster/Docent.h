@@ -1,12 +1,9 @@
 #include <string>
+#include "Persoon.h"
 
-class Docent {			
+class Docent : public Persoon {			
 private:			
-	float salary;			
-	std::string name;		
+	float salary;					
 public:
-	Docent();
-	Docent(const std::string name, float salary);
-	std::string getName();
-	float getSalary();
+	Docent(float salary);
 };

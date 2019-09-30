@@ -1,7 +1,7 @@
 #include <string>
 #include "Docent.h"
 
-Docent::Docent(const std::string name, float salary) : name(name), salary(salary){}
+Docent::Docent(std::string name, float salary) : setName(name), salary(salary){}
 
 std::string Docent::getName() {
 	return name;
