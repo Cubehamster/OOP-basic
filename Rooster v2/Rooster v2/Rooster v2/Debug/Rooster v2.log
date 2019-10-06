@@ -1,0 +1,9 @@
+﻿  Docent.cpp
+  Module.cpp
+i:\oop basic\rooster v2\rooster v2\rooster v2\module.cpp(6): error C3806: ',': unexpected token, expected either a '{' or a member-initializer
+i:\oop basic\rooster v2\rooster v2\rooster v2\module.cpp(6): error C2440: 'initializing': cannot convert from 'Docent' to 'Docent *'
+  i:\oop basic\rooster v2\rooster v2\rooster v2\module.cpp(6): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+i:\oop basic\rooster v2\rooster v2\rooster v2\module.cpp(6): error C2439: 'Module::docent': member could not be initialized
+  i:\oop basic\rooster v2\rooster v2\rooster v2\module.h(14): note: see declaration of 'Module::docent'
+  Student.cpp
+  Generating Code...
