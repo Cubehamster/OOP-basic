@@ -1,0 +1,13 @@
+﻿  main.cpp
+I:\OOP Basic\KoffieMachine\KoffieMachine\main.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\CoffeeMachine.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\HalfEuro.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\CoffeeMachine.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\Euro.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\CoffeeMachine.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\CoffeeCoin.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\CoffeeMachine.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\main.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+I:\OOP Basic\KoffieMachine\KoffieMachine\main.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  KoffieMachine.vcxproj -> I:\OOP Basic\KoffieMachine\Debug\KoffieMachine.exe
