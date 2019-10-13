@@ -1,0 +1,9 @@
+﻿  Book.cpp
+i:\oopbasic\tragiclibrary\tragiclibrary\tragiclibrary\book.cpp(2): fatal error C1083: Cannot open precompiled header file: 'Debug\TragicLibrary.pch': No such file or directory
+  Library.cpp
+i:\oopbasic\tragiclibrary\tragiclibrary\tragiclibrary\library.cpp(2): fatal error C1083: Cannot open precompiled header file: 'Debug\TragicLibrary.pch': No such file or directory
+  pch.cpp
+i:\oopbasic\tragiclibrary\tragiclibrary\tragiclibrary\pch.cpp(3): fatal error C1083: Cannot open precompiled header file: 'Debug\TragicLibrary.pch': No such file or directory
+  TragicLibrary.cpp
+i:\oopbasic\tragiclibrary\tragiclibrary\tragiclibrary\tragiclibrary.cpp(4): fatal error C1083: Cannot open precompiled header file: 'Debug\TragicLibrary.pch': No such file or directory
+  Generating Code...
